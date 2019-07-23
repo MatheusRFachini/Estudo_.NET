@@ -1,0 +1,41 @@
+C:\Users\Matheus\source\repos\Cadastro\CadastroUI\obj\Debug\CadastroUI.csprojAssemblyReference.cache
+C:\Users\Matheus\source\repos\Cadastro\CadastroUI\obj\Debug\CadastroUI.Form1.resources
+C:\Users\Matheus\source\repos\Cadastro\CadastroUI\obj\Debug\CadastroUI.Properties.Resources.resources
+C:\Users\Matheus\source\repos\Cadastro\CadastroUI\obj\Debug\CadastroUI.csproj.GenerateResource.cache
+C:\Users\Matheus\source\repos\Cadastro\CadastroUI\obj\Debug\CadastroUI.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\Cadastro\CadastroUI\bin\Debug\CadastroUI.exe.config
+C:\Users\Matheus\source\repos\Cadastro\CadastroUI\bin\Debug\CadastroUI.exe
+C:\Users\Matheus\source\repos\Cadastro\CadastroUI\bin\Debug\CadastroUI.pdb
+C:\Users\Matheus\source\repos\Cadastro\CadastroUI\bin\Debug\CadastroDATA.dll
+C:\Users\Matheus\source\repos\Cadastro\CadastroUI\bin\Debug\CadastroDATA.pdb
+C:\Users\Matheus\source\repos\Cadastro\CadastroUI\obj\Debug\CadastroUI.csproj.CopyComplete
+C:\Users\Matheus\source\repos\Cadastro\CadastroUI\obj\Debug\CadastroUI.exe
+C:\Users\Matheus\source\repos\Cadastro\CadastroUI\obj\Debug\CadastroUI.pdb
+C:\Users\Suporte\Desktop\Cadastro\CadastroUI\obj\Debug\CadastroUI.csprojAssemblyReference.cache
+C:\Users\Suporte\Desktop\Cadastro\CadastroUI\obj\Debug\CadastroUI.Form1.resources
+C:\Users\Suporte\Desktop\Cadastro\CadastroUI\obj\Debug\CadastroUI.Properties.Resources.resources
+C:\Users\Suporte\Desktop\Cadastro\CadastroUI\obj\Debug\CadastroUI.csproj.GenerateResource.cache
+C:\Users\Suporte\Desktop\Cadastro\CadastroUI\obj\Debug\CadastroUI.csproj.CoreCompileInputs.cache
+C:\Users\Suporte\Desktop\Cadastro\CadastroUI\obj\Debug\CadastroUI.exe
+C:\Users\Suporte\Desktop\Cadastro\CadastroUI\obj\Debug\CadastroUI.pdb
+C:\Users\Suporte\Desktop\Cadastro\CadastroUI\bin\Debug\CadastroUI.exe.config
+C:\Users\Suporte\Desktop\Cadastro\CadastroUI\bin\Debug\CadastroUI.exe
+C:\Users\Suporte\Desktop\Cadastro\CadastroUI\bin\Debug\CadastroUI.pdb
+C:\Users\Suporte\Desktop\Cadastro\CadastroUI\bin\Debug\CadastroDATA.dll
+C:\Users\Suporte\Desktop\Cadastro\CadastroUI\bin\Debug\CadastroDATA.pdb
+C:\Users\Suporte\Desktop\Cadastro\CadastroUI\obj\Debug\CadastroUI.csproj.CopyComplete
+C:\Users\Suporte\Desktop\Cadastro_Iniciamento classes\CadastroUI\bin\Debug\CadastroUI.exe.config
+C:\Users\Suporte\Desktop\Cadastro_Iniciamento classes\CadastroUI\bin\Debug\CadastroUI.exe
+C:\Users\Suporte\Desktop\Cadastro_Iniciamento classes\CadastroUI\bin\Debug\CadastroUI.pdb
+C:\Users\Suporte\Desktop\Cadastro_Iniciamento classes\CadastroUI\bin\Debug\CadastroDATA.dll
+C:\Users\Suporte\Desktop\Cadastro_Iniciamento classes\CadastroUI\bin\Debug\CadastroDLL.dll
+C:\Users\Suporte\Desktop\Cadastro_Iniciamento classes\CadastroUI\bin\Debug\CadastroDATA.pdb
+C:\Users\Suporte\Desktop\Cadastro_Iniciamento classes\CadastroUI\bin\Debug\CadastroDLL.pdb
+C:\Users\Suporte\Desktop\Cadastro_Iniciamento classes\CadastroUI\obj\Debug\CadastroUI.csprojAssemblyReference.cache
+C:\Users\Suporte\Desktop\Cadastro_Iniciamento classes\CadastroUI\obj\Debug\CadastroUI.Form1.resources
+C:\Users\Suporte\Desktop\Cadastro_Iniciamento classes\CadastroUI\obj\Debug\CadastroUI.Properties.Resources.resources
+C:\Users\Suporte\Desktop\Cadastro_Iniciamento classes\CadastroUI\obj\Debug\CadastroUI.csproj.GenerateResource.cache
+C:\Users\Suporte\Desktop\Cadastro_Iniciamento classes\CadastroUI\obj\Debug\CadastroUI.csproj.CoreCompileInputs.cache
+C:\Users\Suporte\Desktop\Cadastro_Iniciamento classes\CadastroUI\obj\Debug\CadastroUI.csproj.CopyComplete
+C:\Users\Suporte\Desktop\Cadastro_Iniciamento classes\CadastroUI\obj\Debug\CadastroUI.exe
+C:\Users\Suporte\Desktop\Cadastro_Iniciamento classes\CadastroUI\obj\Debug\CadastroUI.pdb

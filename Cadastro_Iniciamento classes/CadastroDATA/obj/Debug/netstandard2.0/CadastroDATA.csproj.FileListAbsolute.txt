@@ -1,0 +1,27 @@
+C:\Users\Matheus\source\repos\Cadastro\CadastroDATA\bin\Debug\netstandard2.0\CadastroDATA.deps.json
+C:\Users\Matheus\source\repos\Cadastro\CadastroDATA\bin\Debug\netstandard2.0\CadastroDATA.dll
+C:\Users\Matheus\source\repos\Cadastro\CadastroDATA\obj\Debug\netstandard2.0\CadastroDATA.csprojAssemblyReference.cache
+C:\Users\Matheus\source\repos\Cadastro\CadastroDATA\obj\Debug\netstandard2.0\CadastroDATA.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\Cadastro\CadastroDATA\obj\Debug\netstandard2.0\CadastroDATA.AssemblyInfoInputs.cache
+C:\Users\Matheus\source\repos\Cadastro\CadastroDATA\obj\Debug\netstandard2.0\CadastroDATA.AssemblyInfo.cs
+C:\Users\Matheus\source\repos\Cadastro\CadastroDATA\bin\Debug\netstandard2.0\CadastroDATA.pdb
+C:\Users\Matheus\source\repos\Cadastro\CadastroDATA\obj\Debug\netstandard2.0\CadastroDATA.dll
+C:\Users\Matheus\source\repos\Cadastro\CadastroDATA\obj\Debug\netstandard2.0\CadastroDATA.pdb
+C:\Users\Suporte\Desktop\Cadastro\CadastroDATA\bin\Debug\netstandard2.0\CadastroDATA.deps.json
+C:\Users\Suporte\Desktop\Cadastro\CadastroDATA\bin\Debug\netstandard2.0\CadastroDATA.dll
+C:\Users\Suporte\Desktop\Cadastro\CadastroDATA\bin\Debug\netstandard2.0\CadastroDATA.pdb
+C:\Users\Suporte\Desktop\Cadastro\CadastroDATA\obj\Debug\netstandard2.0\CadastroDATA.csprojAssemblyReference.cache
+C:\Users\Suporte\Desktop\Cadastro\CadastroDATA\obj\Debug\netstandard2.0\CadastroDATA.csproj.CoreCompileInputs.cache
+C:\Users\Suporte\Desktop\Cadastro\CadastroDATA\obj\Debug\netstandard2.0\CadastroDATA.AssemblyInfoInputs.cache
+C:\Users\Suporte\Desktop\Cadastro\CadastroDATA\obj\Debug\netstandard2.0\CadastroDATA.AssemblyInfo.cs
+C:\Users\Suporte\Desktop\Cadastro\CadastroDATA\obj\Debug\netstandard2.0\CadastroDATA.dll
+C:\Users\Suporte\Desktop\Cadastro\CadastroDATA\obj\Debug\netstandard2.0\CadastroDATA.pdb
+C:\Users\Suporte\Desktop\Cadastro_Iniciamento classes\CadastroDATA\bin\Debug\netstandard2.0\CadastroDATA.deps.json
+C:\Users\Suporte\Desktop\Cadastro_Iniciamento classes\CadastroDATA\bin\Debug\netstandard2.0\CadastroDATA.dll
+C:\Users\Suporte\Desktop\Cadastro_Iniciamento classes\CadastroDATA\bin\Debug\netstandard2.0\CadastroDATA.pdb
+C:\Users\Suporte\Desktop\Cadastro_Iniciamento classes\CadastroDATA\obj\Debug\netstandard2.0\CadastroDATA.csprojAssemblyReference.cache
+C:\Users\Suporte\Desktop\Cadastro_Iniciamento classes\CadastroDATA\obj\Debug\netstandard2.0\CadastroDATA.csproj.CoreCompileInputs.cache
+C:\Users\Suporte\Desktop\Cadastro_Iniciamento classes\CadastroDATA\obj\Debug\netstandard2.0\CadastroDATA.AssemblyInfoInputs.cache
+C:\Users\Suporte\Desktop\Cadastro_Iniciamento classes\CadastroDATA\obj\Debug\netstandard2.0\CadastroDATA.AssemblyInfo.cs
+C:\Users\Suporte\Desktop\Cadastro_Iniciamento classes\CadastroDATA\obj\Debug\netstandard2.0\CadastroDATA.dll
+C:\Users\Suporte\Desktop\Cadastro_Iniciamento classes\CadastroDATA\obj\Debug\netstandard2.0\CadastroDATA.pdb
